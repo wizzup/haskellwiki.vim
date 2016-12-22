@@ -8,3 +8,7 @@ http://bother.kfish.org/browser/home/.vim/syntax/haskellwiki.vim
 ## install ##
 
 https://wiki.haskell.org/Help:Editing#Syntax_highlighting_and_vim
+
+### vim plug ###
+
+    Plug 'wizzup/haskellwiki', { 'for': 'haskellwiki' }
